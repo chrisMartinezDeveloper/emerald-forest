@@ -1,0 +1,41 @@
+{
+  "name": "emeral-forest",
+  "displayName": "Emerald Forest",
+  "description": "VS Code Color Theme",
+  "version": "1.0.0",
+  "publisher": "chrisMartinezDev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisMartinezDeveloper/emerald-forest.git"
+  },
+  "keywords": [
+    "color",
+    "theme",
+    "color theme",
+    "dark",
+    "dark theme",
+    "green",
+    "gold",
+    "emerald",
+    "forest",
+    "emerald forest",
+    "chrisMartinezDev",
+    "chrisMartinezDev dark"
+  ],
+  "icon": "src/photos/icon.png",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Emerald Forest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Emerald Forest-color-theme.json"
+      }
+    ]
+  }
+}
