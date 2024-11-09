@@ -1,16 +1,19 @@
-# emerald-forest README
+### Installation
 
-## Working with Markdown
+Visit [Visual Studio Code Extension Marketplace](https://marketplace.visualstudio.com/items?itemName=ChrisMartinezDev.emerald-forest&ssr=false#overview)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+### JS
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+<img alt="JS Source Code" src="./src/photos/js.png" width="500px" height="auto">
 
-## For more information
+### HTML
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<img alt="HTML Source Code" src="./src/photos/html.png" width="500px" height="auto">
 
-**Enjoy!**
+### CSS
+
+<img alt="CSS Source Code" src="./src/photos/css.png" width="500px" height="auto">
+
+### JSON
+
+<img alt="JSON Source Code" src="./src/photos/json.png" width="500px" height="auto">
