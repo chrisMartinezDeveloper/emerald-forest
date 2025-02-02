@@ -2,6 +2,8 @@
 
 Visit [Visual Studio Code Extension Marketplace](https://marketplace.visualstudio.com/items?itemName=ChrisMartinezDev.emerald-forest&ssr=false#overview)
 
+If you have any suggestions for potential improvements, feel free to leave it in the Q&A section.
+
 ### JS
 
 <img alt="JS Source Code" src="./src/photos/js.png" width="500px" height="auto">
